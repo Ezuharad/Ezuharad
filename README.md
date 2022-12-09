@@ -1,2 +1,9 @@
-### About Me
-I am currently studying computer science at Miami University of Ohio. Although my past experience had a chemistry focus, I realized after working with artificial intelligence and predictive chemical models that I wanted to pursue a degree in computing. I am currently working on research in secure coding using artificial intelligence.
+About Me
+---
+I am currently studying computer science at Miami University of Ohio. Although my past experience had a chemistry focus, I realized after working with artificial intelligence and predictive chemical models that I wanted to pursue a degree in computing.
+## Current work  
+My immediate research focus is on secure coding using artificial intelligence. Additionally, I am trying to learn more about the rust programming language over this winter.
+
+Contact
+---
+- Email chiaccsa@miamioh.edu.
