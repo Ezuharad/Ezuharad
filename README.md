@@ -3,7 +3,7 @@ About Me
 I am currently studying computer science at Miami University of Ohio. Although my past experience had a chemistry focus, I realized after working with artificial intelligence and predictive chemical models that I wanted to pursue a degree in computing.
 
 ## Current work  
-My immediate research focus is on secure coding using artificial intelligence. Additionally, I am trying to learn more about the rust programming language over this winter.
+My immediate research focus is on secure coding using artificial intelligence. In addition to this, I work as a teacher's assistant and am taking several high-level courses, specifically ones related to web design, artificial intelligence, and computer graphics.
 
 ## Experience
 As a professional who pushes to learn about new tools I have worked extensively with a number of frameworks, including:
@@ -13,4 +13,5 @@ As a professional who pushes to learn about new tools I have worked extensively 
 
 Contact
 ---
-- Email chiaccsa@miamioh.edu.
+- Email: chiaccsa@miamioh.edu
+- LinkedIn: <a href=https://www.linkedin.com/in/steven-chiacchira/>Steven Chiacchira
