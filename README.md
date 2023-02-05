@@ -13,5 +13,4 @@ As a professional who pushes to learn about new tools I have worked extensively 
 
 Contact
 ---
-- Email: chiaccsa@miamioh.edu
 - LinkedIn: <a href=https://www.linkedin.com/in/steven-chiacchira/>Steven Chiacchira
