@@ -1,3 +1,11 @@
+<span align="center">
+
+  <a href="https://www.linkedin.com/in/steven-chiacchira">![LinkedIn](https://img.shields.io/badge/Steven_Chiacchira-477eae?style=flat&logo=LinkedIn&logoColor=white)</a>
+  <a href="https://stackoverflow.com/users/21385439/ezuharad">![StackOverflow](https://img.shields.io/badge/Ezuharad-e27e21?style=flat&logo=StackOverflow&logoColor=white)</a>
+  <a href="">![DockerHub](https://img.shields.io/badge/Ezuharad-366fd5?style=flat&logo=Docker&logoColor=white)</a>
+
+</span>
+
 ## About Me
 I am studying computer science at Miami University of Ohio. Although my departure from chemical engineering started less than a year ago, I have made great strides in my understanding of the computing. I am always looking to improve my skillset and aspire to one day make a mark on the world.
 
@@ -11,8 +19,3 @@ As a professional who pushes to learn about new tools I have worked extensively 
 - 🌐 HTML, CSS, and Javascript frontend web development
 - 🐳 Docker, NodeJS, and Typescript backend web development
 - 📁 MySQL database management
-
-## Contact
-[![Linkedin](https://img.shields.io/badge/Steven_Chiacchira-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/steven-chiacchira)
-[![StackOverflow](https://img.shields.io/badge/Ezuharad-orange?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/21385439/ezuharad)
-[![DockerHub](https://img.shields.io/badge/Ezuharad-teal?style=flat&logo=Docker&logoColor=white)](https://hub.docker.com/u/ezuharad)
