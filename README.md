@@ -1,10 +1,8 @@
-<span align="center">
-
-  <a href="https://www.linkedin.com/in/steven-chiacchira">![LinkedIn](https://img.shields.io/badge/Steven_Chiacchira-477eae?style=flat&logo=LinkedIn&logoColor=white)</a>
-  <a href="https://stackoverflow.com/users/21385439/ezuharad">![StackOverflow](https://img.shields.io/badge/Ezuharad-e27e21?style=flat&logo=StackOverflow&logoColor=white)</a>
-  <a href="">![DockerHub](https://img.shields.io/badge/Ezuharad-366fd5?style=flat&logo=Docker&logoColor=white)</a>
-
-</span>
+# Ezuharad
+<!-- Shields -->
+<a href="https://www.linkedin.com/in/steven-chiacchira">![LinkedIn](https://img.shields.io/badge/Steven_Chiacchira-477eae?style=flat&logo=LinkedIn&logoColor=white)</a>
+<a href="https://stackoverflow.com/users/21385439/ezuharad">![StackOverflow](https://img.shields.io/badge/Ezuharad-e27e21?style=flat&logo=StackOverflow&logoColor=white)</a>
+<a href="https://hub.docker.com/u/ezuharad">![DockerHub](https://img.shields.io/badge/Ezuharad-366fd5?style=flat&logo=Docker&logoColor=white)</a>
 
 ## About Me
 I am studying computer science at Miami University of Ohio. Although my departure from chemical engineering started less than a year ago, I have made great strides in my understanding of the computing. I am always looking to improve my skillset and aspire to one day make a mark on the world.
