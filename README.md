@@ -5,7 +5,7 @@
 <a href="https://hub.docker.com/u/ezuharad">![DockerHub](https://img.shields.io/badge/Ezuharad-366fd5?style=flat&logo=Docker&logoColor=white)</a>
 
 ## About Me
-I am studying computer science at Miami University of Ohio. Although my departure from chemical engineering started less than a year ago, I have made great strides in my understanding of the computing. I am always looking to improve my skillset and aspire to one day make a mark on the world.
+I am studying computer science at Miami University of Ohio. Although my departure from chemical engineering started less than a year ago, I have made great strides in my understanding of computing. I am always looking to improve my skillset and aspire to one day make a mark on the world.
 
 ## Current work
 My immediate research focus is on secure coding using artificial intelligence. In addition to this, I work as a teacher's assistant and am taking several high-level courses, specifically ones related to web design, artificial intelligence, and computer graphics.
