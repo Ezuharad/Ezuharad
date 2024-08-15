@@ -13,7 +13,7 @@ I study AI security as senior graduate student at Miami University of Ohio's [LA
 
 **Currently reading:** The C Programming Language by Brian Kernighan and Dennis Ritchie
 
-**Current recommendation:** [A Mathematical Theory of Communication](recommendations/A\ Mathematical\ Theory\ of\ Communication.pdf) by Claude Shannon.
+**Current recommendation:** A Mathematical Theory of Communication by Claude Shannon (see recommendations directory).
 
 ## Non-Interests
 ![Things I like complaining about](https://skillicons.dev/icons?i=js,matlab,windows,azure,aws,googlecloud)
