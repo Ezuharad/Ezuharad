@@ -13,7 +13,7 @@ I study AI security as senior graduate student at Miami University of Ohio's [LA
 
 **Currently reading:** The C Programming Language by Brian Kernighan and Dennis Ritchie
 
-**Current recommendation:** [this Video](https://www.youtube.com/watch?v=ErfnhcEV1O8&embeds_referring_euri=https%3A%2F%2Fwww.google.com%2F&source_ve_path=Mjg2NjY) by Aurélien Geron explaining the Kullback-Leibler divergence
+**Current recommendation:** [A Mathematical Theory of Communication](recommendations/A\ Mathematical\ Theory\ of\ Communication.pdf) by Claude Shannon.
 
 ## Non-Interests
 ![Things I like complaining about](https://skillicons.dev/icons?i=js,matlab,windows,azure,aws,googlecloud)
