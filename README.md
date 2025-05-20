@@ -1,7 +1,7 @@
 ## About Me
 ![Things I like talking about](https://skillicons.dev/icons?i=py,pytorch,arch,neovim,bash,git)
 
-I study AI security as senior graduate student at Miami University of Ohio's [LAiSR group](https://github.com/LAiSR-SK). My responsibilities include:
+I studied AI security as senior graduate student at Miami University of Ohio's [LAiSR group](https://github.com/LAiSR-SK). My responsibilities included:
 - Devising novel mathematical models and methods of adversarial attack and defense
 - Designing and building out software architectures for some of our newer projects, beginning with ~~soon to be announced~~
 - Keeping our codebase organized with CI/CD practices and documentation
