@@ -6,9 +6,8 @@ I am a recent graduate from Miami University, where I studied artificial intelli
 ## My Other Interests
 ![Things I want to learn about](https://skillicons.dev/icons?i=docker,go,c,haskell,zig,nix)
 
-**Currently playing with:** building [a tool](https://github.com/Ezuharad/.dotfiles) to install my development environment to any machine I use
+**Currently playing with:** finding a job.
 
-**Currently reading:** The C Programming Language by Brian Kernighan and Dennis Ritchie
+**Currently reading:** Linear Algebra by Stephen H. Friedberg, Arnold J. Insel, and Lawrence E. Spence.
 
 **Current recommendation:** A Mathematical Theory of Communication by Claude Shannon (see recommendations directory).
-\\
