@@ -1,10 +1,7 @@
 ## About Me
 ![Things I like talking about](https://skillicons.dev/icons?i=py,pytorch,arch,neovim,bash,git)
 
-I studied AI security as senior graduate student at Miami University of Ohio's [LAiSR group](https://github.com/LAiSR-SK). My responsibilities included:
-- Devising novel mathematical models and methods of adversarial attack and defense
-- Designing and building out software architectures for many of our projects
-- Keeping our codebase organized with CI/CD practices and documentation
+I am a recent graduate from Miami University, where I studied artificial intelligence security at the Laboratory of AI Security Research. Although much of my current time is spent hunting for employment, I still enjoy reading about and keeping up with recent findings in the mathematics of machine learning.
 
 ## My Other Interests
 ![Things I want to learn about](https://skillicons.dev/icons?i=docker,go,c,haskell,zig,nix)
@@ -14,3 +11,4 @@ I studied AI security as senior graduate student at Miami University of Ohio's [
 **Currently reading:** The C Programming Language by Brian Kernighan and Dennis Ritchie
 
 **Current recommendation:** A Mathematical Theory of Communication by Claude Shannon (see recommendations directory).
+\\
